@@ -1,9 +1,1 @@
-{
-  "versionCode": 24,
-  "versionName": "1.2.1",
-  "notes": "首个正式分发版本：支持应用内检查更新",
-  "apkUrl": "https://gh-proxy.com/https://github.com/wjq5-7/video-extractor/releases/latest/download/video-extractor.apk",
-  "apkUrlBackup": "https://ghfast.top/https://github.com/wjq5-7/video-extractor/releases/latest/download/video-extractor.apk",
-  "apkUrlOfficial": "https://github.com/wjq5-7/video-extractor/releases/latest/download/video-extractor.apk",
-  "size": 102103723
-}
+{"versionCode":28,"versionName":"1.3.0","notes":"v1.3.0：新增音视频工具箱（压缩/裁剪/拼接/变速/抽帧/GIF/铃声）；主题跟随系统（深/浅/自动）；下载完成通知快捷打开/分享；修复若干问题","apkUrl":"https://gh-proxy.com/https://github.com/wjq5-7/video-extractor/releases/latest/download/video-extractor.apk","apkUrlBackup":"https://ghfast.top/https://github.com/wjq5-7/video-extractor/releases/latest/download/video-extractor.apk","apkUrlOfficial":"https://github.com/wjq5-7/video-extractor/releases/latest/download/video-extractor.apk","size":102126539}
